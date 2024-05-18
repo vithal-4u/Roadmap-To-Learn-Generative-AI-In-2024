@@ -47,14 +47,14 @@
 3. Chainlit [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://docs.chainlit.io/get-started/overview)
 4. Google Gemini [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://ai.google.dev/tutorials/python_quickstart?authuser=1 )
 
-## 5. Vector Databases And Vector Stores
+## 6. Vector Databases And Vector Stores
 
 1. ChromaDB
 2. FAISS vector database, which makes use of the Facebook AI Similarity Search (FAISS) library
 3. LanceDB vector database based on the Lance data format
 4. Cassandra DB For storing Vectors
 
-## 6. Deployment Of LLM Projects
+## 7. Deployment Of LLM Projects
 
 1. AWS
 2. Azure
